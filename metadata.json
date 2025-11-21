@@ -1,0 +1,7 @@
+{
+  "name": "TriviaGenius AI",
+  "description": "An immersive trivia game featuring a dynamic AI host, powered by Gemini 2.5 Live API, Search Grounding, and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
